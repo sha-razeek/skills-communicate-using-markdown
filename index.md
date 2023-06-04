@@ -8,5 +8,5 @@
   console.log(dt.getYear())
 ```
 - [x] Create mindmap on article
-- [] Research historical sources
-- [] Compose first draft
+- [ ] Research historical sources
+- [ ] Compose first draft
